@@ -4,14 +4,11 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Sort" />
-    <orderEntry type="module" module-name="案例" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
   </component>
   <component name="TestRunnerService">
-    <option name="projectConfiguration" value="py.test" />
-    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
   </component>
 </module>
